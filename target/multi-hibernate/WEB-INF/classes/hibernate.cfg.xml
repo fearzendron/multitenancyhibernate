@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <property name="connection.datasource">java:jboss/datasources/banco1</property>
+        <property name="connection.pool_size">1</property>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="current_session_context_class">thread</property>
+
+        <!-- <property name="hibernate.multiTenancy">DATABASE</property>
+        <property name="hibernate.multi_tenant_connection_provider">
+            br.com.zendron.connection.connection.MultiTenantConnectionProviderImpl
+        </property>
+        <property name="hibernate.tenant_identifier_resolver">
+            br.com.zendron.connection.connection.CurrentTenantIdentifierResolverImpl
+        </property> -->
+
+        <property name="show_sql">true</property>
+        <property name="hbm2ddl.auto">update</property>
+
+
+        <!-- Annotaded classes -->
+        <mapping class="br.com.zendron.model.People"/>
+
+    </session-factory>
+</hibernate-configuration>
