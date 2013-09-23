@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiTenancy.iml" filepath="$PROJECT_DIR$/MultiTenancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-eclipselink.iml" filepath="$PROJECT_DIR$/multi-eclipselink.iml" />
     </modules>
   </component>
 </project>

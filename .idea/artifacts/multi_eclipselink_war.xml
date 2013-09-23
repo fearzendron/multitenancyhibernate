@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="multi-eclipselink:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="multi-eclipselink.war">
+      <element id="artifact" artifact-name="multi-eclipselink:war exploded" />
+    </root>
+  </artifact>
+</component>

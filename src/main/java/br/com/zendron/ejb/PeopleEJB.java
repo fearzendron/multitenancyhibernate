@@ -1,36 +1,37 @@
 package br.com.zendron.ejb;
 
-import br.com.zendron.connection.MultiTenantSession;
 import br.com.zendron.model.People;
-import org.hibernate.Query;
-import org.hibernate.Session;
 
 import javax.ejb.Stateless;
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
 import java.util.Collection;
 
 @Stateless
 public class PeopleEJB implements PeopleRepository {
 
+    @PersistenceContext
+    private EntityManager em;
+
     @Override
     public Collection<People> getAll(String tenant) {
         Collection<People> listOfPeople = null;
+        EntityManager em = null;
 
         try {
 
-            Session session = MultiTenantSession.getMultiTenantSession(tenant);
-
-            Query query = session.getNamedQuery("People.all");
-            listOfPeople = query.list();
-
-            session.close();
+            listOfPeople = em.createNamedQuery("People.all", People.class).getResultList();
 
         } catch (Exception e) {
             e.printStackTrace();
         }
 
         return listOfPeople;
-
     }
-
-
 }
+
+/*
+    SessionImpl tmpsession = (SessionImpl) entityManager.getDelegate();
+    SessionFactory sessionFactory = tmpsession.getSessionFactory();
+    Session session = sessionFactory.withOptions().tenantIdentifier( "jboss" ).openSession();
+*/

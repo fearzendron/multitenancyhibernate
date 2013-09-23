@@ -1,7 +1,6 @@
 package br.com.zendron.controller;
 
 import br.com.zendron.ejb.PeopleRepository;
-import br.com.zendron.model.People;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,14 +9,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.ejb.EJB;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
-import java.util.Collection;
 
 
 @Controller
 @RequestMapping("/")
 public class HelloController {
 
-    @EJB(mappedName = "java:app/multi-hibernate/PeopleEJB")
+    @EJB(mappedName = "java:app/multi-jpa/PeopleEJB")
     private PeopleRepository peopleRepository;
 
 
@@ -36,9 +34,9 @@ public class HelloController {
             }
         }
 
-        Collection<People> listOfPeople = peopleRepository.getAll(tenant);
+        //Collection<People> listOfPeople = peopleRepository.getAll(tenant);
 
-        model.addAttribute("list", listOfPeople);
+       // model.addAttribute("list", listOfPeople);
         return "index";
     }
 

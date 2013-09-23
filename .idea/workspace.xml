@@ -1,32 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" name="Default" comment="" />
-    <ignored path="MultiTenancy.iws" />
+    <list default="true" id="d1d54f61-cca5-4232-9b69-a5ca1f1634ea" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\artifacts\MultiTenancy_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\artifacts\MultiTenancy_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\description.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__com_experlog_xapool_1_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__com_sun_tools_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__commons_io_commons_io_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__javax_validation_validation_api_1_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_avro_avro_1_6_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_analyzers_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_core_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_facet_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_grouping_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_highlighter_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_kuromoji_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_memory_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_misc_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_phonetic_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_smartcn_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_spatial_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_spellchecker_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_lucene_lucene_stempel_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_solr_solr_analysis_extras_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_solr_solr_core_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_apache_solr_solr_solrj_3_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_core_4_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_search_4_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_search_analyzers_4_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_search_engine_4_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_search_orm_4_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_testing_4_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_hibernate_validator_4_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_javassist_javassist_3_15_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_byteman_byteman_2_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_byteman_byteman_bmunit_2_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_byteman_byteman_install_2_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_byteman_byteman_submit_2_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_jbossts_jbossjta_4_16_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\libraries\Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\runConfigurations\AppTests.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\.idea\sqldialects.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\MultiTenancy.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\src\main\java\br\com\zendron\connection\MultiTenantSession.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyEclipselink\src\main\resources\hibernate.cfg.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="multi-eclipselink.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/TenantFilter.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379213781294" ignored="false" />
-    <file path="/HelloController.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379539592464" ignored="false" />
-    <file path="/hello.jsp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379214098610" ignored="false" />
-    <file path="/Dummy.txt" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379511962430" ignored="false" />
-    <file path="/persistence.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379359294839" ignored="false" />
-    <file path="/People.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379426764032" ignored="false" />
-    <file path="$USER_HOME$/Desktop/visto-system/visto-system-ejb/src/main/resources/META-INF/persistence.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379357415398" ignored="false" />
-    <file path="/TenantHandlerInterceptor.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379439578805" ignored="false" />
-    <file path="/mvc-dispatcher-servlet.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379357863951" ignored="false" />
-    <file path="/HIbernateUtil.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379359991205" ignored="false" />
-    <file path="/hibernate.cfg.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379528998379" ignored="false" />
-    <file path="/index.jsp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379449726683" ignored="false" />
-    <file path="/pom.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379443823621" ignored="false" />
-    <file path="/HibernateUtil.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379526764660" ignored="false" />
-    <file path="/ZendronTenantConnectionProvider.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379451866740" ignored="false" />
-    <file path="/MultiTenantConnectionProviderImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379528721982" ignored="false" />
-    <file path="/ConnectionProviderImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379527566804" ignored="false" />
-    <file path="/PeopleEJB.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379601123059" ignored="false" />
-    <file path="/PeopleRepository.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379523875519" ignored="false" />
-    <file path="/MultiTenantConnectionProvider.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379526229410" ignored="false" />
-    <file path="/CurrentTenantIdentifierResolverImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379526651497" ignored="false" />
-    <file path="/*.regexp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379535759604" ignored="false" />
-    <file path="/MultiTenantSession.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379601148610" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1d54f61-cca5-4232-9b69-a5ca1f1634ea" time="1379705949742" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +90,6 @@
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -84,67 +131,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="MultiTenancy" />
+    <favorites_list name="multi-eclipselink" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PeopleEJB.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="84" selection-start="367" selection-end="367" vertical-scroll-proportion="0.3051095">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiTenantSession.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/connection/MultiTenantSession.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="54" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PeopleRepository.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="People.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/model/People.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="89" selection-end="233" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="77" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TenantHandlerInterceptor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/filter/TenantHandlerInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
+            <state line="40" column="27" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.6202965">
               <folding />
             </state>
           </provider>
@@ -157,39 +151,26 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/ZendronTenantConnectionProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/MultiTenantConnectionProviderImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/PeopleEJB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/ConnectionProviderImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/connection/MultiTenantConnectionProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/connection/CurrentTenantIdentifierResolverImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/HibernateUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/connection/MultiTenantConnectionProviderImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/connection/connection/ConnectionProviderImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/MultiTenantSession.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="25" />
+    <option name="y" value="98" />
+    <option name="width" value="1932" />
     <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -224,27 +205,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="multi-eclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="multi-eclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="MultiTenancyEclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="multi-eclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="MultiTenancyEclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -258,59 +239,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="multi-eclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="MultiTenancyEclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -332,11 +265,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="multi-eclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemId" value="MultiTenancyEclipselink" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -354,191 +287,34 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="zendron" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ejb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="br.com.zendron" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="br.com.zendron" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="br.com.zendron" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancyHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiTenancy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="br.com.zendron" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="connection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Production">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test/java">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="All">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/br/com/zendron" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="recentsLimit" value="5" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="Settings.JavaScript.Linters.ClosureLinter" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate-orm" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MultiTenancyHibernate" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancy\src\main\resources\META-INF" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyHibernate\src\main\resources" />
-      <recent name="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancyHibernate\src\main\resources\META-INF" />
-      <recent name="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancy\src\main\resources\META-INF" />
-      <recent name="C:\Users\Zendron\Dropbox\projetos\java\MultiTenancy\src\main\resources" />
-    </key>
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="JBoss Server.JBoss 7.2.0.Final-redhat-8">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -567,19 +343,6 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -606,6 +369,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -645,14 +421,10 @@
       <method />
     </configuration>
     <configuration default="false" name="JBoss 7.2.0.Final-redhat-8" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 7.2.0.Final-redhat-8">
-      <option name="OPEN_IN_BROWSER_URL" value="http://banco1.visto-web.com.br:28272/multi-hibernate/" />
-      <option name="COMMON_VM_ARGUMENTS" value="-Djboss.socket.binding.port-offset=19990" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://banco1.visto-web.com.br:18272/multi-eclipselink" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Djboss.socket.binding.port-offset=9990" />
       <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="MultiTenancy:war">
-          <settings />
-        </artifact>
-      </deployment>
+      <deployment />
       <server-settings>
         <option name="SERVER" />
         <option name="BINDING_SET_NAME" value="" />
@@ -663,13 +435,13 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="62928" />
+        <option name="DEBUG_PORT" value="28060" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <RunnerSettings RunnerId="JRebel" />
       <RunnerSettings RunnerId="JRebel Debug">
-        <option name="DEBUG_PORT" value="62929" />
+        <option name="DEBUG_PORT" value="28061" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
@@ -751,13 +523,12 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="MultiTenancy:war" />
+          <artifact name="multi-eclipselink:war" />
         </option>
       </method>
     </configuration>
-    <list size="2">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="JBoss Server.JBoss 7.2.0.Final-redhat-8" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.AppTests" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -767,44 +538,64 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" name="Default" comment="" />
-      <created>1379213067724</created>
-      <updated>1379213067724</updated>
+      <changelist id="d1d54f61-cca5-4232-9b69-a5ca1f1634ea" name="Default" comment="" />
+      <created>1379704890301</created>
+      <updated>1379704890301</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="25" y="98" width="1932" height="1066" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24626069" sideWeight="0.78807944" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21192053" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4271523" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28587195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4271523" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32799146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4271523" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053534" sideWeight="0.57284766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59050775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -873,126 +664,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/jboss.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.2.5.Final/hibernate-core-4.2.5.Final.jar!/org/hibernate/service/jdbc/connections/spi/AbstractMultiTenantConnectionProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="194" selection-end="194" vertical-scroll-proportion="0.10253317">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.0.RELEASE/spring-web-3.2.0.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="34" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.19141105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="19" selection-start="7547" selection-end="7547" vertical-scroll-proportion="0.5202454">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="28" selection-start="7532" selection-end="7532" vertical-scroll-proportion="0.69606674">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.2.5.Final/hibernate-core-4.2.5.Final.jar!/org/hibernate/cfg/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="17" selection-start="19171" selection-end="19171" vertical-scroll-proportion="-7.68">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="0" selection-start="3362" selection-end="3544" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.2.5.Final/hibernate-core-4.2.5.Final.jar!/org/hibernate/service/jdbc/connections/spi/MultiTenantConnectionProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="69" selection-start="89" selection-end="149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/modelobanco1.sql">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="28" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.5473485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/connection/MultiTenantSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="54" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/filter/TenantHandlerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="77" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/model/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="89" selection-end="233" vertical-scroll-proportion="0.0">
+        <state line="40" column="27" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.6202965">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="84" selection-start="367" selection-end="367" vertical-scroll-proportion="0.3051095">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

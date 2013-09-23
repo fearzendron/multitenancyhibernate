@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="MultiTenancy" />
+        <module name="multi-eclipselink" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MultiTenancy" target="1.7" />
+      <module name="multi-eclipselink" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
