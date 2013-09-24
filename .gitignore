@@ -1,6 +1,12 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.DS_Store
+*jboss-web.xml
+*.settings/
+*.classpath
+*.project
+*/target
+*/build
+*.idea
+*.iml
+*/bin
+.DS_Store
+*rebel.xml
