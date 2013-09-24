@@ -5,7 +5,7 @@
     <ignored path="MultiTenancy.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TenantFilter.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379213781294" ignored="false" />
-    <file path="/HelloController.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379539592464" ignored="false" />
+    <file path="/HelloController.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707091902" ignored="false" />
     <file path="/hello.jsp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379214098610" ignored="false" />
     <file path="/Dummy.txt" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379511962430" ignored="false" />
     <file path="/persistence.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379359294839" ignored="false" />
@@ -16,17 +16,38 @@
     <file path="/HIbernateUtil.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379359991205" ignored="false" />
     <file path="/hibernate.cfg.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379528998379" ignored="false" />
     <file path="/index.jsp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379449726683" ignored="false" />
-    <file path="/pom.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379443823621" ignored="false" />
+    <file path="/pom.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379610121619" ignored="false" />
     <file path="/HibernateUtil.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379526764660" ignored="false" />
     <file path="/ZendronTenantConnectionProvider.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379451866740" ignored="false" />
     <file path="/MultiTenantConnectionProviderImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379528721982" ignored="false" />
     <file path="/ConnectionProviderImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379527566804" ignored="false" />
-    <file path="/PeopleEJB.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379601123059" ignored="false" />
-    <file path="/PeopleRepository.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379523875519" ignored="false" />
+    <file path="/PeopleEJB.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379625711071" ignored="false" />
+    <file path="/PeopleRepository.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707132958" ignored="false" />
     <file path="/MultiTenantConnectionProvider.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379526229410" ignored="false" />
     <file path="/CurrentTenantIdentifierResolverImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379526651497" ignored="false" />
     <file path="/*.regexp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379535759604" ignored="false" />
     <file path="/MultiTenantSession.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379601148610" ignored="false" />
+    <file path="$PROJECT_DIR$/../MultiTenancyJPA/pom.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379610121619" ignored="false" />
+    <file path="$PROJECT_DIR$/../MultiTenancyJPA/src/main/java/br/com/zendron/controller/HelloController.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379609965277" ignored="false" />
+    <file path="$PROJECT_DIR$/../MultiTenancyJPA/src/main/java/br/com/zendron/connection/MultiTenantEntityManagerWrapper.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379621710916" ignored="false" />
+    <file path="/MultiTenantEntityManagerWrapper.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379621709654" ignored="false" />
+    <file path="$PROJECT_DIR$/../MultiTenancyJPA/src/main/java/br/com/zendron/connection/MultiTenantEntityManagerWrapperImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379622274467" ignored="false" />
+    <file path="/MultiTenantEntityManagerWrapperImpl.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379622179521" ignored="false" />
+    <file path="$PROJECT_DIR$/../MultiTenancyJPA/MultiTenancy.iml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379621829183" ignored="false" />
+    <file path="$PROJECT_DIR$/../MultiTenancyJPA/src/main/java/br/com/zendron/ejb/PeopleEJB.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379625716658" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/multi-eclipselink.iml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707282098" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/java/br/com/zendron/HelloController.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707091902" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/java/PeopleRepository.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707141346" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/java/br/com/zendron/People.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707180399" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/.idea/workspace.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707287270" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/pom.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/webapp/WEB-INF/pages/index.jsp" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/java/br/com/zendron/controller/HelloController.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/java/br/com/zendron/ejb/PeopleRepository.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/java/br/com/zendron/model/People.java" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/webapp/WEB-INF/web.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707279908" ignored="false" />
+    <file path="$PROJECT_DIR$/../multi-eclipselink/src/main/resources/META-INF/persistence.xml" changelist="c49b3ebf-a8e4-4c4b-ac36-66af2bbc7628" time="1379707346889" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +63,6 @@
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -79,6 +99,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -91,10 +112,8 @@
       <file leaf-file-name="PeopleEJB.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="84" selection-start="367" selection-end="367" vertical-scroll-proportion="0.3051095">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="25" column="0" selection-start="647" selection-end="647" vertical-scroll-proportion="0.5159129">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -102,10 +121,8 @@
       <file leaf-file-name="MultiTenantSession.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/connection/MultiTenantSession.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="54" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="37" column="31" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,10 +130,8 @@
       <file leaf-file-name="PeopleRepository.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="17" column="42" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,7 +139,16 @@
       <file leaf-file-name="People.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/model/People.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="89" selection-end="233" vertical-scroll-proportion="0.0">
+            <state line="24" column="24" selection-start="0" selection-end="1000" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="145" column="0" selection-start="4398" selection-end="5434" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -133,18 +157,34 @@
       <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="77" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="31" column="53" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TenantHandlerInterceptor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/filter/TenantHandlerInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
+            <state line="76" column="16" selection-start="3135" selection-end="3135" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -187,10 +227,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="188" />
+    <option name="width" value="1600" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -253,6 +292,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -329,6 +376,10 @@
               <option name="myItemId" value="zendron" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -358,6 +409,167 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ejb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zendron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zendron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiTenancyHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zendron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -444,73 +656,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Production">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test/java">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MultiTenancyHibernate">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="All">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -519,7 +664,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate-orm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -774,37 +919,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="188" y="0" width="1600" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24626069" sideWeight="0.78807944" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21192053" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28587195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32799146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25520834" sideWeight="0.50993377" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49006623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -873,60 +1018,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/jboss.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.2.5.Final/hibernate-core-4.2.5.Final.jar!/org/hibernate/service/jdbc/connections/spi/AbstractMultiTenantConnectionProvider.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="194" selection-end="194" vertical-scroll-proportion="0.10253317">
-          <folding />
-        </state>
+        <state line="6" column="22" selection-start="194" selection-end="194" vertical-scroll-proportion="0.10253317" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.0.RELEASE/spring-web-3.2.0.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="34" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.19141105">
-          <folding />
-        </state>
+        <state line="23" column="34" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.19141105" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="19" selection-start="7547" selection-end="7547" vertical-scroll-proportion="0.5202454">
-          <folding />
-        </state>
+        <state line="111" column="19" selection-start="7547" selection-end="7547" vertical-scroll-proportion="0.5202454" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="28" selection-start="7532" selection-end="7532" vertical-scroll-proportion="0.69606674">
-          <folding />
-        </state>
+        <state line="118" column="28" selection-start="7532" selection-end="7532" vertical-scroll-proportion="0.69606674" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.2.5.Final/hibernate-core-4.2.5.Final.jar!/org/hibernate/cfg/Configuration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="17" selection-start="19171" selection-end="19171" vertical-scroll-proportion="-7.68">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="0" selection-start="3362" selection-end="3544" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="281" column="17" selection-start="19171" selection-end="19171" vertical-scroll-proportion="-7.68" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.2.5.Final/hibernate-core-4.2.5.Final.jar!/org/hibernate/service/jdbc/connections/spi/MultiTenantConnectionProvider.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.4">
-          <folding />
-        </state>
+        <state line="6" column="17" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.4" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
@@ -937,62 +1056,75 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/modelobanco1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="28" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.5473485" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="28" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.5473485">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/connection/MultiTenantSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="54" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="37" column="31" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/filter/TenantHandlerInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
+        <state line="76" column="16" selection-start="3135" selection-end="3135" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="77" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="31" column="53" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="17" column="42" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/model/People.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="89" selection-end="233" vertical-scroll-proportion="0.0">
+        <state line="24" column="24" selection-start="0" selection-end="1000" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="0" selection-start="4398" selection-end="5434" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/zendron/ejb/PeopleEJB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="84" selection-start="367" selection-end="367" vertical-scroll-proportion="0.3051095">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="25" column="0" selection-start="647" selection-end="647" vertical-scroll-proportion="0.5159129">
+          <folding />
         </state>
       </provider>
     </entry>
